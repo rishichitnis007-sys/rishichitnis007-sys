@@ -7,13 +7,13 @@
 - ⚡ Fun fact: I am a ☕️ dependent person
 ----------------------------------------
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/rishichitnis007-sys/Hello-World/pull/9) in [rishichitnis007-sys/Hello-World](https://github.com/rishichitnis007-sys/Hello-World)
-2. 💪 Opened PR [#9](https://github.com/rishichitnis007-sys/Hello-World/pull/9) in [rishichitnis007-sys/Hello-World](https://github.com/rishichitnis007-sys/Hello-World)
-3. 🎉 Merged PR [#8](https://github.com/rishichitnis007-sys/Hello-World/pull/8) in [rishichitnis007-sys/Hello-World](https://github.com/rishichitnis007-sys/Hello-World)
-4. ℹ️ Assigned PR [#8](https://github.com/rishichitnis007-sys/Hello-World/pull/8) in [rishichitnis007-sys/Hello-World](https://github.com/rishichitnis007-sys/Hello-World)
-5. 💪 Opened PR [#8](https://github.com/rishichitnis007-sys/Hello-World/pull/8) in [rishichitnis007-sys/Hello-World](https://github.com/rishichitnis007-sys/Hello-World)
-6. 🎉 Merged PR [#7](https://github.com/rishichitnis007-sys/Hello-World/pull/7) in [rishichitnis007-sys/Hello-World](https://github.com/rishichitnis007-sys/Hello-World)
-7. 💪 Opened PR [#7](https://github.com/rishichitnis007-sys/Hello-World/pull/7) in [rishichitnis007-sys/Hello-World](https://github.com/rishichitnis007-sys/Hello-World)
+1. 💪 Opened PR [#282](https://github.com/BlackIQ/Hello-World/pull/282) in [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World)
+2. ℹ️ Assigned issue [#5](https://github.com/rishichitnis007-sys/Hello-World/issues/5) in [rishichitnis007-sys/Hello-World](https://github.com/rishichitnis007-sys/Hello-World)
+3. ℹ️ Unassigned issue [#5](https://github.com/rishichitnis007-sys/Hello-World/issues/5) in [rishichitnis007-sys/Hello-World](https://github.com/rishichitnis007-sys/Hello-World)
+4. ℹ️ Assigned issue [#5](https://github.com/rishichitnis007-sys/Hello-World/issues/5) in [rishichitnis007-sys/Hello-World](https://github.com/rishichitnis007-sys/Hello-World)
+5. ❗ Opened issue [#5](https://github.com/rishichitnis007-sys/Hello-World/issues/5) in [rishichitnis007-sys/Hello-World](https://github.com/rishichitnis007-sys/Hello-World)
+6. ❌ Closed PR [#3](https://github.com/rishichitnis007-sys/rishichitnis007-sys/pull/3) in [rishichitnis007-sys/rishichitnis007-sys](https://github.com/rishichitnis007-sys/rishichitnis007-sys)
+7. 💪 Opened PR [#3](https://github.com/rishichitnis007-sys/rishichitnis007-sys/pull/3) in [rishichitnis007-sys/rishichitnis007-sys](https://github.com/rishichitnis007-sys/rishichitnis007-sys)
 <!--END_SECTION:activity-->
 ----------------------------------------
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
