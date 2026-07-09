@@ -7,13 +7,13 @@
 - ⚡ Fun fact: I am a ☕️ dependent person
 ----------------------------------------
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/rishichitnis007-sys/rishichitnis007-sys/pull/2) in [rishichitnis007-sys/rishichitnis007-sys](https://github.com/rishichitnis007-sys/rishichitnis007-sys)
-2. 💪 Opened PR [#2](https://github.com/rishichitnis007-sys/rishichitnis007-sys/pull/2) in [rishichitnis007-sys/rishichitnis007-sys](https://github.com/rishichitnis007-sys/rishichitnis007-sys)
-3. 🔒 Closed issue [#2](https://github.com/rishichitnis007-sys/dotfiles/issues/2) in [rishichitnis007-sys/dotfiles](https://github.com/rishichitnis007-sys/dotfiles)
-4. ℹ️ Assigned issue [#2](https://github.com/rishichitnis007-sys/dotfiles/issues/2) in [rishichitnis007-sys/dotfiles](https://github.com/rishichitnis007-sys/dotfiles)
-5. ❗ Opened issue [#2](https://github.com/rishichitnis007-sys/dotfiles/issues/2) in [rishichitnis007-sys/dotfiles](https://github.com/rishichitnis007-sys/dotfiles)
-6. 🔒 Closed issue [#1](https://github.com/rishichitnis007-sys/dotfiles/issues/1) in [rishichitnis007-sys/dotfiles](https://github.com/rishichitnis007-sys/dotfiles)
-7. 🗣 Commented on [#1](https://github.com/rishichitnis007-sys/dotfiles/issues/1#issuecomment-4906095860) in [rishichitnis007-sys/dotfiles](https://github.com/rishichitnis007-sys/dotfiles)
+1. 🎉 Merged PR [#9](https://github.com/rishichitnis007-sys/Hello-World/pull/9) in [rishichitnis007-sys/Hello-World](https://github.com/rishichitnis007-sys/Hello-World)
+2. 💪 Opened PR [#9](https://github.com/rishichitnis007-sys/Hello-World/pull/9) in [rishichitnis007-sys/Hello-World](https://github.com/rishichitnis007-sys/Hello-World)
+3. 🎉 Merged PR [#8](https://github.com/rishichitnis007-sys/Hello-World/pull/8) in [rishichitnis007-sys/Hello-World](https://github.com/rishichitnis007-sys/Hello-World)
+4. ℹ️ Assigned PR [#8](https://github.com/rishichitnis007-sys/Hello-World/pull/8) in [rishichitnis007-sys/Hello-World](https://github.com/rishichitnis007-sys/Hello-World)
+5. 💪 Opened PR [#8](https://github.com/rishichitnis007-sys/Hello-World/pull/8) in [rishichitnis007-sys/Hello-World](https://github.com/rishichitnis007-sys/Hello-World)
+6. 🎉 Merged PR [#7](https://github.com/rishichitnis007-sys/Hello-World/pull/7) in [rishichitnis007-sys/Hello-World](https://github.com/rishichitnis007-sys/Hello-World)
+7. 💪 Opened PR [#7](https://github.com/rishichitnis007-sys/Hello-World/pull/7) in [rishichitnis007-sys/Hello-World](https://github.com/rishichitnis007-sys/Hello-World)
 <!--END_SECTION:activity-->
 ----------------------------------------
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
