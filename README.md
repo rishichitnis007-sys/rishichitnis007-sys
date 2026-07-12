@@ -7,13 +7,13 @@
 - ⚡ Fun fact: I am a ☕️ dependent person
 ----------------------------------------
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#44600](https://github.com/timburgan/timburgan/issues/44600) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-2. ❗ Opened issue [#44589](https://github.com/timburgan/timburgan/issues/44589) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-3. 🎉 Merged PR [#283](https://github.com/BlackIQ/Hello-World/pull/283) in [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World)
-4. 🎉 Merged PR [#282](https://github.com/BlackIQ/Hello-World/pull/282) in [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World)
-5. 💪 Opened PR [#283](https://github.com/BlackIQ/Hello-World/pull/283) in [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World)
-6. 🗣 Commented on [#2](https://github.com/rishichitnis007/dotfiles/issues/2#issuecomment-4930063856) in [rishichitnis007/dotfiles](https://github.com/rishichitnis007/dotfiles)
-7. 🔒 Closed issue [#2](https://github.com/rishichitnis007/dotfiles/issues/2) in [rishichitnis007/dotfiles](https://github.com/rishichitnis007/dotfiles)
+1. 🎉 Merged PR [#120986](https://github.com/firstcontributions/first-contributions/pull/120986) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+2. 💪 Opened PR [#120986](https://github.com/firstcontributions/first-contributions/pull/120986) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+3. 🎉 Merged PR [#2](https://github.com/rishichitnis007/my-first-repo/pull/2) in [rishichitnis007/my-first-repo](https://github.com/rishichitnis007/my-first-repo)
+4. 💪 Opened PR [#2](https://github.com/rishichitnis007/my-first-repo/pull/2) in [rishichitnis007/my-first-repo](https://github.com/rishichitnis007/my-first-repo)
+5. 🎉 Merged PR [#1](https://github.com/rishichitnis007/my-first-repo/pull/1) in [rishichitnis007/my-first-repo](https://github.com/rishichitnis007/my-first-repo)
+6. 💪 Opened PR [#1](https://github.com/rishichitnis007/my-first-repo/pull/1) in [rishichitnis007/my-first-repo](https://github.com/rishichitnis007/my-first-repo)
+7. ❗ Opened issue [#44600](https://github.com/timburgan/timburgan/issues/44600) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
 <!--END_SECTION:activity-->
 ----------------------------------------
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
