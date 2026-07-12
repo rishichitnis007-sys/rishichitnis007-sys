@@ -13,4 +13,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@1.9.6
         with:
           comment_tag_name: "Update with recent blog posts"
-          feed_list: "https://dev.to/feed/rishichitnis007"
+          feed_list: "https://dev.to/feed/rishichitnis007_80"
