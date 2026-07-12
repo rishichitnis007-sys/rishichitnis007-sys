@@ -16,4 +16,7 @@
 7. 💪 Opened PR [#1](https://github.com/rishichitnis007/my-first-repo/pull/1) in [rishichitnis007/my-first-repo](https://github.com/rishichitnis007/my-first-repo)
 <!--END_SECTION:activity-->
 ----------------------------------------
+<!-- DEVTO-BLOG-LIST:START -->
+<!-- DEVTO-BLOG-LIST:END --> 
+----------------------------------------
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
