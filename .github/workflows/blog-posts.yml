@@ -1,0 +1,16 @@
+name: Latest Blog Posts
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-devto-articles:
+    name: Update this repo's README with latest DEV.to Articles
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7.0.0
+      - uses: gautamkrishnar/blog-post-workflow@1.9.6
+        with:
+          comment_tag_name: "Update with recent blog posts"
+          feed_list: "https://dev.to/feed/rishichitnis007"
