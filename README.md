@@ -17,6 +17,7 @@
 <!--END_SECTION:activity-->
 ----------------------------------------
 <!-- Update with recent blog posts:START  -->
+- [My Goals and How far I am](https://dev.to/rishichitnis007_80/my-goals-and-how-far-i-am-43ec)
 - [Hello](https://dev.to/rishichitnis007_80/hello-433n)
 <!-- Update with recent blog posts:END  -->
 
