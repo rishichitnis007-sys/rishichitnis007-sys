@@ -24,4 +24,6 @@
 <!-- Update with recent blog posts:END  -->
 
 ----------------------------------------
+![My PR Stats](https://github-pr-stats-five.vercel.app/api/github-pr-stats?username=rishichitnis007)
+----------------------------------------
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
