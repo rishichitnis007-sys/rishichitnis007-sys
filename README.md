@@ -6,6 +6,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a ☕️ dependent person
 ----------------------------------------
+### My Recent Activity
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#4](https://github.com/thegreatsourcerer/github-actions/pull/4) in [thegreatsourcerer/github-actions](https://github.com/thegreatsourcerer/github-actions)
 2. 💪 Opened PR [#4](https://github.com/thegreatsourcerer/github-actions/pull/4) in [thegreatsourcerer/github-actions](https://github.com/thegreatsourcerer/github-actions)
