@@ -16,6 +16,8 @@
 7. 🎉 Merged PR [#285](https://github.com/BlackIQ/Hello-World/pull/285) in [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World)
 <!--END_SECTION:activity-->
 ----------------------------------------
+
+### 📘 My latest Blog Posts
 <!-- Update with recent blog posts:START  -->
 - [Update: My Goals and How far I am](https://dev.to/rishichitnis007_80/update-my-goals-and-how-far-i-am-204j)
 - [Intro to Javascript](https://dev.to/rishichitnis007_80/intro-to-javascript-4fp9)
