@@ -17,6 +17,10 @@
 7. 💪 Opened PR [#2](https://github.com/tHeInCreDiBlEpRoGrAmMeR/pull-shark-achievemnet-testing/pull/2) in [tHeInCreDiBlEpRoGrAmMeR/pull-shark-achievemnet-testing](https://github.com/tHeInCreDiBlEpRoGrAmMeR/pull-shark-achievemnet-testing)
 <!--END_SECTION:activity-->
 ----------------------------------------
+### My Github Streak
+
+
+----------------------------------------
 
 ### 📘 My latest Blog Posts
 <!-- Update with recent blog posts:START  -->
