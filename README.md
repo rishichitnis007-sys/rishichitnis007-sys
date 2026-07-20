@@ -8,11 +8,11 @@
 ----------------------------------------
 ### My Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#288](https://github.com/BlackIQ/Hello-World/pull/288) in [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World)
-2. 🎉 Merged PR [#4](https://github.com/thegreatsourcerer/github-actions/pull/4) in [thegreatsourcerer/github-actions](https://github.com/thegreatsourcerer/github-actions)
-3. 💪 Opened PR [#4](https://github.com/thegreatsourcerer/github-actions/pull/4) in [thegreatsourcerer/github-actions](https://github.com/thegreatsourcerer/github-actions)
-4. ℹ️ Unlabeled PR [#1](https://github.com/rishichitnis007/dotfiles/pull/1) in [rishichitnis007/dotfiles](https://github.com/rishichitnis007/dotfiles)
-5. ℹ️ Labeled PR [#1](https://github.com/rishichitnis007/dotfiles/pull/1) in [rishichitnis007/dotfiles](https://github.com/rishichitnis007/dotfiles)
+1. 🎉 Merged PR [#288](https://github.com/BlackIQ/Hello-World/pull/288) in [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World)
+2. 💪 Opened PR [#288](https://github.com/BlackIQ/Hello-World/pull/288) in [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World)
+3. 🎉 Merged PR [#4](https://github.com/thegreatsourcerer/github-actions/pull/4) in [thegreatsourcerer/github-actions](https://github.com/thegreatsourcerer/github-actions)
+4. 💪 Opened PR [#4](https://github.com/thegreatsourcerer/github-actions/pull/4) in [thegreatsourcerer/github-actions](https://github.com/thegreatsourcerer/github-actions)
+5. ℹ️ Unlabeled PR [#1](https://github.com/rishichitnis007/dotfiles/pull/1) in [rishichitnis007/dotfiles](https://github.com/rishichitnis007/dotfiles)
 6. 🎉 Merged PR [#2](https://github.com/tHeInCreDiBlEpRoGrAmMeR/pull-shark-achievemnet-testing/pull/2) in [tHeInCreDiBlEpRoGrAmMeR/pull-shark-achievemnet-testing](https://github.com/tHeInCreDiBlEpRoGrAmMeR/pull-shark-achievemnet-testing)
 7. 💪 Opened PR [#2](https://github.com/tHeInCreDiBlEpRoGrAmMeR/pull-shark-achievemnet-testing/pull/2) in [tHeInCreDiBlEpRoGrAmMeR/pull-shark-achievemnet-testing](https://github.com/tHeInCreDiBlEpRoGrAmMeR/pull-shark-achievemnet-testing)
 <!--END_SECTION:activity-->
