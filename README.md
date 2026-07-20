@@ -18,8 +18,7 @@
 <!--END_SECTION:activity-->
 ----------------------------------------
 ### My Github Streak
-
-
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 ----------------------------------------
 
 ### 📘 My latest Blog Posts
