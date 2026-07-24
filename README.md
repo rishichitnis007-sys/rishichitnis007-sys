@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on the [Hello World](https://github.com/rishichitnis007/hello-world) Project
+- 🔭 I’m currently working on new projects
 - 🌱 I’m currently learning Python and Javascript
 - 📫 How to reach me: rishichitnis007@gmail.com
 - 😄 Pronouns: he/him
