@@ -8,13 +8,13 @@
 ----------------------------------------
 ### My Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#24322](https://github.com/JonathanGin52/JonathanGin52/issues/24322) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-2. ❗ Opened issue [#7165](https://github.com/marcizhu/marcizhu/issues/7165) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
-3. 🎉 Merged PR [#290](https://github.com/BlackIQ/Hello-World/pull/290) in [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World)
-4. 🎉 Merged PR [#289](https://github.com/BlackIQ/Hello-World/pull/289) in [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World)
-5. 💪 Opened PR [#290](https://github.com/BlackIQ/Hello-World/pull/290) in [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World)
-6. 💪 Opened PR [#289](https://github.com/BlackIQ/Hello-World/pull/289) in [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World)
-7. 🎉 Merged PR [#288](https://github.com/BlackIQ/Hello-World/pull/288) in [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World)
+1. ❗ Opened issue [#7](https://github.com/rishichitnis007/hello-world/issues/7) in [rishichitnis007/hello-world](https://github.com/rishichitnis007/hello-world)
+2. ❗ Opened issue [#24322](https://github.com/JonathanGin52/JonathanGin52/issues/24322) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+3. ❗ Opened issue [#7165](https://github.com/marcizhu/marcizhu/issues/7165) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
+4. 🎉 Merged PR [#290](https://github.com/BlackIQ/Hello-World/pull/290) in [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World)
+5. 🎉 Merged PR [#289](https://github.com/BlackIQ/Hello-World/pull/289) in [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World)
+6. 💪 Opened PR [#290](https://github.com/BlackIQ/Hello-World/pull/290) in [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World)
+7. 💪 Opened PR [#289](https://github.com/BlackIQ/Hello-World/pull/289) in [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World)
 <!--END_SECTION:activity-->
 ----------------------------------------
 ### My Github Streak
